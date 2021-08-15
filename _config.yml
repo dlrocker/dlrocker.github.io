@@ -3,12 +3,12 @@
 # ----------------------- #
 
 url: https://dlrocker.github.io/
-# title: Your Awesome Site
+title: David Rocker
 # email: your-email@domain.com
 author: David Rocker
 description: > # "Write an awesome description for your new site here. 
   David Rocker, Software Developer
-copyright: 'Copyright &copy; 2012 David Rocker. All Rights Reserved.'
+copyright: 'Copyright &copy; 2021 David Rocker. All Rights Reserved.'
 # credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
