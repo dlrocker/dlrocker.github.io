@@ -2,7 +2,7 @@
 layout: default
 img: Pokeball.png
 category: Projects
-title: pikamon-py
+title: "Project: pikamon-py"
 description: |
 ---
-  [Python native Pokemon bot for Discord inspired by the late Pokecord.](https://github.com/dlrocker/pikamon-py)
+  Python native [Pokemon bot](https://github.com/dlrocker/pikamon-py) for Discord inspired by the late Pokecord.
